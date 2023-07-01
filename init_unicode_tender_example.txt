@@ -1,0 +1,297 @@
+{
+   "data":{
+      "procurementMethod":"open",
+      "awardPeriod":{
+         "startDate":"2016-09-20T15:33:11.231778+03:00",
+         "endDate":"2016-09-26T14:20:57.668221+03:00"
+      },
+      "enquiryPeriod":{
+         "startDate":"2016-09-13T15:56:02+03:00",
+         "endDate":"2016-09-15T15:32:00+03:00"
+      },
+      "submissionMethod":"electronicAuction",
+      "procuringEntity":{
+         "contactPoint":{
+            "telephone":"+380342511395",
+            "name":"\u041c\u0430\u0440\u0443\u0449\u0430\u043a \u0421.",
+            "email":"gydpss_40309088@ukr.net"
+         },
+         "identifier":{
+            "scheme":"UA-EDR",
+            "id":"40309088",
+            "legalName":"\u0413\u043e\u043b\u043e\u0432\u043d\u0435 \u0443\u043f\u0440\u0430\u0432\u043b\u0456\u043d\u043d\u044f \u0414\u0435\u0440\u0436\u043f\u0440\u043e\u0434\u0441\u043f\u043e\u0436\u0438\u0432\u0441\u043b\u0443\u0436\u0431\u0438 \u0432 \u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0456\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0456"
+         },
+         "name":"\u0413\u043e\u043b\u043e\u0432\u043d\u0435 \u0443\u043f\u0440\u0430\u0432\u043b\u0456\u043d\u043d\u044f \u0414\u0435\u0440\u0436\u043f\u0440\u043e\u0434\u0441\u043f\u043e\u0436\u0438\u0432\u0441\u043b\u0443\u0436\u0431\u0438 \u0432 \u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0456\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0456",
+         "kind":"general",
+         "address":{
+            "postalCode":"76019",
+            "countryName":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+            "streetAddress":"\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b., \u043c\u0456\u0441\u0442\u043e \u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a, \u0412\u0423\u041b\u0418\u0426\u042f \u0411\u0415\u0420\u0415\u0413\u041e\u0412\u0410, \u0431\u0443\u0434\u0438\u043d\u043e\u043a 24",
+            "region":"\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b.",
+            "locality":"\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a"
+         }
+      },
+      "owner":"it.ua",
+      "documents":[
+         {
+            "format":"application/pdf",
+            "url":"https://public.docs.openprocurement.org/get/48a6e7ec6f0745f8b87dfda9292e27a9?Prefix=68fc16d020c245abaa1c993138b76b25%2Fe6389da05a0b49af89a767a9489ae6be&KeyID=52462340&Signature=kiWrOJCCR2H9X1zLJnrPP0ROOMUZvu8VCFfyLGawY3HfaGY26dI1HHrVHUrPEmzmSkipYe%252B9AnAflGWPz1JaDA%253D%253D",
+            "title":"\u0442\u0435\u0445. \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0430 \u043e\u0444\u0456\u0441\u043d\u0438\u0445 \u041f\u041a.pdf",
+            "documentOf":"tender",
+            "datePublished":"2016-09-13T15:55:08.355295+03:00",
+            "dateModified":"2016-09-13T15:55:08.355318+03:00",
+            "id":"e6389da05a0b49af89a767a9489ae6be"
+         }
+      ],
+      "title":"\u041e\u0444\u0456\u0441\u043d\u0438\u0439 \u041f\u041a (\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u0438\u0439 \u0431\u043b\u043e\u043a, \u043c\u043e\u043d\u0456\u0442\u043e\u0440, \u043a\u043b\u0430\u0432\u0456\u0430\u0442\u0443\u0440\u0430, \u043c\u0430\u043d\u0456\u043f\u0443\u043b\u044f\u0442\u043e\u0440 \"\u041c\u0438\u0448\u043a\u0430\"",
+      "tenderID":"UA-2016-09-13-000821-c",
+      "dateModified":"2016-11-05T00:11:34.615558+02:00",
+      "status":"complete",
+      "tenderPeriod":{
+         "startDate":"2016-09-16T15:32:00+03:00",
+         "endDate":"2016-09-20T15:32:00+03:00"
+      },
+      "contracts":[
+         {
+            "status":"active",
+            "documents":[
+               {
+                  "format":"application/pdf",
+                  "url":"https://public.docs.openprocurement.org/get/439551f2f3e54b6ebf0ca88b171e7ad0?Prefix=68fc16d020c245abaa1c993138b76b25%2Fe24cfa2f9d094eb794882428862fdbdb&KeyID=52462340&Signature=fwSnXpVVRHFa6vscF1nIxNSjI2QdR2EEaM%2FL%2FcD1GO6pbjlWCJ5X5g9NC%2Fj6wHvHsUb9lbl3fhJrS6Ag0VRZAQ%253D%253D",
+                  "title":"\u0414\u043e\u0433\u043e\u0432\u0456\u0440 11.pdf",
+                  "documentOf":"tender",
+                  "datePublished":"2016-10-12T09:03:43.316079+03:00",
+                  "documentType":"contractSigned",
+                  "dateModified":"2016-10-12T09:03:43.316101+03:00",
+                  "id":"e24cfa2f9d094eb794882428862fdbdb"
+               }
+            ],
+            "items":[
+               {
+                  "description":"\u041e\u0444\u0456\u0441\u043d\u0438\u0439 \u041f\u041a(\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u0438\u0439 \u0431\u043b\u043e\u043a, \u043c\u043e\u043d\u0456\u0442\u043e\u0440, \u043a\u043b\u0430\u0432\u0456\u0430\u0442\u0443\u0440\u0430, \u043c\u0430\u043d\u0456\u043f\u0443\u043b\u044f\u0442\u043e\u0440 \"\u043c\u0438\u0448\u043a\u0430\")",
+                  "classification":{
+                     "scheme":"CPV",
+                     "description":"\u041a\u043e\u043c\u043f\u2019\u044e\u0442\u0435\u0440\u043d\u0435 \u043e\u0431\u043b\u0430\u0434\u043d\u0430\u043d\u043d\u044f \u0442\u0430 \u043f\u0440\u0438\u043b\u0430\u0434\u0434\u044f",
+                     "id":"30200000-1"
+                  },
+                  "additionalClassifications":[
+                     {
+                        "scheme":"NONE",
+                        "id":"000",
+                        "description":"\u041d\u0435 \u0432\u0438\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0439"
+                     }
+                  ],
+                  "id":"eca3b5d4a5e641bc979a4d9270817443",
+                  "unit":{
+                     "code":"H87",
+                     "name":"\u0448\u0442"
+                  },
+                  "quantity":2
+               }
+            ],
+            "suppliers":[
+               {
+                  "contactPoint":{
+                     "name_ru":"  ",
+                     "name_en":"  ",
+                     "telephone":"+380532642042",
+                     "name":"\u0413\u0443\u0441\u0430\u0440\u0443\u043a \u041e\u043b\u0435\u0433 \u0412\u0456\u0442\u0430\u043b\u0456\u0439\u043e\u0432\u0438\u0447",
+                     "email":"dostupno_333@ukr.net"
+                  },
+                  "identifier":{
+                     "scheme":"UA-EDR",
+                     "id":"2969913153",
+                     "legalName":"\u0424\u041e\u041f \u0413\u0443\u0441\u0430\u0440\u0443\u043a \u041e.\u0412."
+                  },
+                  "name":"\u0424\u041e\u041f \u0413\u0443\u0441\u0430\u0440\u0443\u043a \u041e.\u0412.",
+                  "address":{
+                     "postalCode":"36014",
+                     "countryName":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+                     "streetAddress":"\u0421\u043e\u0431\u043e\u0440\u043d\u043e\u0441\u0442\u0438",
+                     "region":"\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                     "locality":"\u041f\u043e\u043b\u0442\u0430\u0432\u0430"
+                  }
+               }
+            ],
+            "contractNumber":"11",
+            "period":{
+               "startDate":"2016-10-12T00:00:00+03:00",
+               "endDate":"2016-12-31T00:00:00+02:00"
+            },
+            "value":{
+               "currency":"UAH",
+               "amount":19343.0,
+               "valueAddedTaxIncluded":true
+            },
+            "dateSigned":"2016-10-11T00:00:00+03:00",
+            "date":"2016-10-12T09:04:40.228040+03:00",
+            "awardID":"38d23a72c0ce420d8c386218944c29af",
+            "id":"8d5a1c374a244c00b1016a617e5becf1",
+            "contractID":"UA-2016-09-13-000821-c-b1"
+         }
+      ],
+      "procurementMethodType":"belowThreshold",
+      "awards":[
+         {
+            "status":"active",
+            "documents":[
+               {
+                  "format":"application/pdf",
+                  "url":"https://public.docs.openprocurement.org/get/312b9256d22f4290b20305eac35b3c68?Prefix=68fc16d020c245abaa1c993138b76b25%2F815ec11a00564cb3956e47b464aef903&KeyID=52462340&Signature=hTIeJF63Au2TRbEHASRcqN308hytx400cGB4fLglJ2Gb3fGHRxVFpL9E6Vf60wvR3qV4cZPIK1WGL3uJGgaZDQ%253D%253D",
+                  "title":"\u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b 17.pdf",
+                  "documentOf":"tender",
+                  "datePublished":"2016-09-26T14:20:55.976701+03:00",
+                  "dateModified":"2016-09-26T14:20:55.976736+03:00",
+                  "id":"815ec11a00564cb3956e47b464aef903"
+               }
+            ],
+            "description":"\u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u0430\u0454 \u0443\u043c\u043e\u0432\u0430\u043c \u0437\u0430\u043a\u0443\u043f\u0456\u0432\u043b\u0456",
+            "title":"\u0423\u0447\u0430\u0441\u043d\u0438\u043a \u043e\u0431\u0440\u0430\u043d\u0438\u0439 \u043f\u0435\u0440\u0435\u043c\u043e\u0436\u0446\u0435\u043c",
+            "suppliers":[
+               {
+                  "contactPoint":{
+                     "name_ru":"  ",
+                     "name_en":"  ",
+                     "telephone":"+380532642042",
+                     "name":"\u0413\u0443\u0441\u0430\u0440\u0443\u043a \u041e\u043b\u0435\u0433 \u0412\u0456\u0442\u0430\u043b\u0456\u0439\u043e\u0432\u0438\u0447",
+                     "email":"dostupno_333@ukr.net"
+                  },
+                  "identifier":{
+                     "scheme":"UA-EDR",
+                     "id":"2969913153",
+                     "legalName":"\u0424\u041e\u041f \u0413\u0443\u0441\u0430\u0440\u0443\u043a \u041e.\u0412."
+                  },
+                  "name":"\u0424\u041e\u041f \u0413\u0443\u0441\u0430\u0440\u0443\u043a \u041e.\u0412.",
+                  "address":{
+                     "postalCode":"36014",
+                     "countryName":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+                     "streetAddress":"\u0421\u043e\u0431\u043e\u0440\u043d\u043e\u0441\u0442\u0438",
+                     "region":"\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                     "locality":"\u041f\u043e\u043b\u0442\u0430\u0432\u0430"
+                  }
+               }
+            ],
+            "complaintPeriod":{
+               "startDate":"2016-09-20T15:33:11.233141+03:00",
+               "endDate":"2016-09-28T14:20:57.667719+03:00"
+            },
+            "bid_id":"67f29547bf6c4e789f563de51bb94062",
+            "value":{
+               "currency":"UAH",
+               "amount":19343.0,
+               "valueAddedTaxIncluded":true
+            },
+            "date":"2016-09-26T14:20:57.678713+03:00",
+            "id":"38d23a72c0ce420d8c386218944c29af"
+         }
+      ],
+      "date":"2016-10-12T09:04:40.228040+03:00",
+      "minimalStep":{
+         "currency":"UAH",
+         "amount":600.0,
+         "valueAddedTaxIncluded":true
+      },
+      "items":[
+         {
+            "description":"\u041e\u0444\u0456\u0441\u043d\u0438\u0439 \u041f\u041a(\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u0438\u0439 \u0431\u043b\u043e\u043a, \u043c\u043e\u043d\u0456\u0442\u043e\u0440, \u043a\u043b\u0430\u0432\u0456\u0430\u0442\u0443\u0440\u0430, \u043c\u0430\u043d\u0456\u043f\u0443\u043b\u044f\u0442\u043e\u0440 \"\u043c\u0438\u0448\u043a\u0430\")",
+            "classification":{
+               "scheme":"CPV",
+               "description":"\u041a\u043e\u043c\u043f\u2019\u044e\u0442\u0435\u0440\u043d\u0435 \u043e\u0431\u043b\u0430\u0434\u043d\u0430\u043d\u043d\u044f \u0442\u0430 \u043f\u0440\u0438\u043b\u0430\u0434\u0434\u044f",
+               "id":"30200000-1"
+            },
+            "additionalClassifications":[
+               {
+                  "scheme":"NONE",
+                  "id":"000",
+                  "description":"\u041d\u0435 \u0432\u0438\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0439"
+               }
+            ],
+            "id":"eca3b5d4a5e641bc979a4d9270817443",
+            "unit":{
+               "code":"H87",
+               "name":"\u0448\u0442"
+            },
+            "quantity":2
+         }
+      ],
+      "bids":[
+         {
+            "status":"active",
+            "documents":[
+               {
+                  "description":"SHA1: 3f9ba408f14b32eac27d278265f645ee508a01f2",
+                  "title":"\u041a\u043e\u043c\u0435\u0440\u0447\u0435\u0441\u043a\u043e\u0435 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435!.pdf",
+                  "url":"https://public.docs.openprocurement.org/get/ec1415d66a834ae1b4429b65b99c51f1?Prefix=68fc16d020c245abaa1c993138b76b25%2Ff13cfe3338cc4cccad409a99247f3198&KeyID=52462340&Signature=10pG4D%252BCQysbCnIzADNyanqW2IbX6pkdSfwFkmd5TK3aGLhsN%252Bdm45I0NhMVHYGexcR8TkAcF4t7ABFQ9FLQAw%253D%253D",
+                  "format":"application/pdf",
+                  "title_en":"\u041a\u043e\u043c\u0435\u0440\u0447\u0435\u0441\u043a\u043e\u0435 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435!.pdf",
+                  "description_en":"SHA1: 3f9ba408f14b32eac27d278265f645ee508a01f2",
+                  "datePublished":"2016-09-20T12:22:03.452720+03:00",
+                  "documentOf":"tender",
+                  "title_ru":"\u041a\u043e\u043c\u0435\u0440\u0447\u0435\u0441\u043a\u043e\u0435 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435!.pdf",
+                  "dateModified":"2016-09-20T12:22:03.452741+03:00",
+                  "description_ru":"SHA1: 3f9ba408f14b32eac27d278265f645ee508a01f2",
+                  "id":"f13cfe3338cc4cccad409a99247f3198"
+               },
+               {
+                  "description":"SHA1: f258ceab06069675755002ea91b711aace2a576d",
+                  "title":"\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b_\u0424\u041e\u041f_\u0413\u0443\u0441\u0430\u0440\u0443\u043a_\u041e.\u0412..pdf",
+                  "url":"https://public.docs.openprocurement.org/get/e062686f532548e4b0fa5178fc07afc6?Prefix=68fc16d020c245abaa1c993138b76b25%2F71390fe2a4214b7b83954cd54d1c7074&KeyID=52462340&Signature=6L6f2D1XUQtRX7FAU1KuIT%252BorjhtnXbaoEVshPWiJZJaLecpYrNZOmuJlAbeSVrb2%252BEJjtjnCTk6DDqDzsHKCg%253D%253D",
+                  "format":"application/pdf",
+                  "title_en":"\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b_\u0424\u041e\u041f_\u0413\u0443\u0441\u0430\u0440\u0443\u043a_\u041e.\u0412..pdf",
+                  "description_en":"SHA1: f258ceab06069675755002ea91b711aace2a576d",
+                  "datePublished":"2016-09-20T12:22:06.539927+03:00",
+                  "documentOf":"tender",
+                  "title_ru":"\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b_\u0424\u041e\u041f_\u0413\u0443\u0441\u0430\u0440\u0443\u043a_\u041e.\u0412..pdf",
+                  "dateModified":"2016-09-20T12:22:06.539947+03:00",
+                  "description_ru":"SHA1: f258ceab06069675755002ea91b711aace2a576d",
+                  "id":"71390fe2a4214b7b83954cd54d1c7074"
+               }
+            ],
+            "value":{
+               "currency":"UAH",
+               "amount":19343.0,
+               "valueAddedTaxIncluded":true
+            },
+            "tenderers":[
+               {
+                  "contactPoint":{
+                     "name_ru":"  ",
+                     "name_en":"  ",
+                     "telephone":"+380532642042",
+                     "name":"\u0413\u0443\u0441\u0430\u0440\u0443\u043a \u041e\u043b\u0435\u0433 \u0412\u0456\u0442\u0430\u043b\u0456\u0439\u043e\u0432\u0438\u0447",
+                     "email":"dostupno_333@ukr.net"
+                  },
+                  "identifier":{
+                     "scheme":"UA-EDR",
+                     "id":"2969913153",
+                     "legalName":"\u0424\u041e\u041f \u0413\u0443\u0441\u0430\u0440\u0443\u043a \u041e.\u0412."
+                  },
+                  "name":"\u0424\u041e\u041f \u0413\u0443\u0441\u0430\u0440\u0443\u043a \u041e.\u0412.",
+                  "address":{
+                     "postalCode":"36014",
+                     "countryName":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+                     "streetAddress":"\u0421\u043e\u0431\u043e\u0440\u043d\u043e\u0441\u0442\u0438",
+                     "region":"\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                     "locality":"\u041f\u043e\u043b\u0442\u0430\u0432\u0430"
+                  }
+               }
+            ],
+            "date":"2016-09-20T12:21:33.412832+03:00",
+            "id":"67f29547bf6c4e789f563de51bb94062"
+         }
+      ],
+      "value":{
+         "currency":"UAH",
+         "amount":20000.0,
+         "valueAddedTaxIncluded":true
+      },
+      "awardCriteria":"lowestCost",
+      "dateCreated":"2016-09-13T15:55:04.212011+03:00",
+      "id":"68fc16d020c245abaa1c993138b76b25"
+   },
+   "config":{
+      "hasAuction":true,
+      "hasAwardingOrder":true,
+      "hasValueRestriction":true
+   }
+}

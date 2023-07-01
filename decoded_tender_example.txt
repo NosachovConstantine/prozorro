@@ -1,0 +1,297 @@
+{
+   "data":{
+      "procurementMethod":"open",
+      "awardPeriod":{
+         "startDate":"2016-09-20T15:33:11.231778+03:00",
+         "endDate":"2016-09-26T14:20:57.668221+03:00"
+      },
+      "enquiryPeriod":{
+         "startDate":"2016-09-13T15:56:02+03:00",
+         "endDate":"2016-09-15T15:32:00+03:00"
+      },
+      "submissionMethod":"electronicAuction",
+      "procuringEntity":{
+         "contactPoint":{
+            "telephone":"+380342511395",
+            "name":"Марущак С.",
+            "email":"gydpss_40309088@ukr.net"
+         },
+         "identifier":{
+            "scheme":"UA-EDR",
+            "id":"40309088",
+            "legalName":"Головне управління Держпродспоживслужби в Івано-Франківській області"
+         },
+         "name":"Головне управління Держпродспоживслужби в Івано-Франківській області",
+         "kind":"general",
+         "address":{
+            "postalCode":"76019",
+            "countryName":"Україна",
+            "streetAddress":"Івано-Франківська обл., місто Івано-Франківськ, ВУЛИЦЯ БЕРЕГОВА, будинок 24",
+            "region":"Івано-Франківська обл.",
+            "locality":"Івано-Франківськ"
+         }
+      },
+      "owner":"it.ua",
+      "documents":[
+         {
+            "format":"application/pdf",
+            "url":"https://public.docs.openprocurement.org/get/48a6e7ec6f0745f8b87dfda9292e27a9?Prefix=68fc16d020c245abaa1c993138b76b25/e6389da05a0b49af89a767a9489ae6be&KeyID=52462340&Signature=kiWrOJCCR2H9X1zLJnrPP0ROOMUZvu8VCFfyLGawY3HfaGY26dI1HHrVHUrPEmzmSkipYe%2B9AnAflGWPz1JaDA%3D%3D",
+            "title":"тех. характеристика офісних ПК.pdf",
+            "documentOf":"tender",
+            "datePublished":"2016-09-13T15:55:08.355295+03:00",
+            "dateModified":"2016-09-13T15:55:08.355318+03:00",
+            "id":"e6389da05a0b49af89a767a9489ae6be"
+         }
+      ],
+      "title":"Офісний ПК (Системний блок, монітор, клавіатура, маніпулятор \"Мишка\"",
+      "tenderID":"UA-2016-09-13-000821-c",
+      "dateModified":"2016-11-05T00:11:34.615558+02:00",
+      "status":"complete",
+      "tenderPeriod":{
+         "startDate":"2016-09-16T15:32:00+03:00",
+         "endDate":"2016-09-20T15:32:00+03:00"
+      },
+      "contracts":[
+         {
+            "status":"active",
+            "documents":[
+               {
+                  "format":"application/pdf",
+                  "url":"https://public.docs.openprocurement.org/get/439551f2f3e54b6ebf0ca88b171e7ad0?Prefix=68fc16d020c245abaa1c993138b76b25/e24cfa2f9d094eb794882428862fdbdb&KeyID=52462340&Signature=fwSnXpVVRHFa6vscF1nIxNSjI2QdR2EEaM/L/cD1GO6pbjlWCJ5X5g9NC/j6wHvHsUb9lbl3fhJrS6Ag0VRZAQ%3D%3D",
+                  "title":"Договір 11.pdf",
+                  "documentOf":"tender",
+                  "datePublished":"2016-10-12T09:03:43.316079+03:00",
+                  "documentType":"contractSigned",
+                  "dateModified":"2016-10-12T09:03:43.316101+03:00",
+                  "id":"e24cfa2f9d094eb794882428862fdbdb"
+               }
+            ],
+            "items":[
+               {
+                  "description":"Офісний ПК(Системний блок, монітор, клавіатура, маніпулятор \"мишка\")",
+                  "classification":{
+                     "scheme":"CPV",
+                     "description":"Комп’ютерне обладнання та приладдя",
+                     "id":"30200000-1"
+                  },
+                  "additionalClassifications":[
+                     {
+                        "scheme":"NONE",
+                        "id":"000",
+                        "description":"Не визначений"
+                     }
+                  ],
+                  "id":"eca3b5d4a5e641bc979a4d9270817443",
+                  "unit":{
+                     "code":"H87",
+                     "name":"шт"
+                  },
+                  "quantity":2
+               }
+            ],
+            "suppliers":[
+               {
+                  "contactPoint":{
+                     "name_ru":"  ",
+                     "name_en":"  ",
+                     "telephone":"+380532642042",
+                     "name":"Гусарук Олег Віталійович",
+                     "email":"dostupno_333@ukr.net"
+                  },
+                  "identifier":{
+                     "scheme":"UA-EDR",
+                     "id":"2969913153",
+                     "legalName":"ФОП Гусарук О.В."
+                  },
+                  "name":"ФОП Гусарук О.В.",
+                  "address":{
+                     "postalCode":"36014",
+                     "countryName":"Україна",
+                     "streetAddress":"Соборности",
+                     "region":"Полтавська область",
+                     "locality":"Полтава"
+                  }
+               }
+            ],
+            "contractNumber":"11",
+            "period":{
+               "startDate":"2016-10-12T00:00:00+03:00",
+               "endDate":"2016-12-31T00:00:00+02:00"
+            },
+            "value":{
+               "currency":"UAH",
+               "amount":19343.0,
+               "valueAddedTaxIncluded":true
+            },
+            "dateSigned":"2016-10-11T00:00:00+03:00",
+            "date":"2016-10-12T09:04:40.228040+03:00",
+            "awardID":"38d23a72c0ce420d8c386218944c29af",
+            "id":"8d5a1c374a244c00b1016a617e5becf1",
+            "contractID":"UA-2016-09-13-000821-c-b1"
+         }
+      ],
+      "procurementMethodType":"belowThreshold",
+      "awards":[
+         {
+            "status":"active",
+            "documents":[
+               {
+                  "format":"application/pdf",
+                  "url":"https://public.docs.openprocurement.org/get/312b9256d22f4290b20305eac35b3c68?Prefix=68fc16d020c245abaa1c993138b76b25/815ec11a00564cb3956e47b464aef903&KeyID=52462340&Signature=hTIeJF63Au2TRbEHASRcqN308hytx400cGB4fLglJ2Gb3fGHRxVFpL9E6Vf60wvR3qV4cZPIK1WGL3uJGgaZDQ%3D%3D",
+                  "title":"протокол 17.pdf",
+                  "documentOf":"tender",
+                  "datePublished":"2016-09-26T14:20:55.976701+03:00",
+                  "dateModified":"2016-09-26T14:20:55.976736+03:00",
+                  "id":"815ec11a00564cb3956e47b464aef903"
+               }
+            ],
+            "description":"відповідає умовам закупівлі",
+            "title":"Учасник обраний переможцем",
+            "suppliers":[
+               {
+                  "contactPoint":{
+                     "name_ru":"  ",
+                     "name_en":"  ",
+                     "telephone":"+380532642042",
+                     "name":"Гусарук Олег Віталійович",
+                     "email":"dostupno_333@ukr.net"
+                  },
+                  "identifier":{
+                     "scheme":"UA-EDR",
+                     "id":"2969913153",
+                     "legalName":"ФОП Гусарук О.В."
+                  },
+                  "name":"ФОП Гусарук О.В.",
+                  "address":{
+                     "postalCode":"36014",
+                     "countryName":"Україна",
+                     "streetAddress":"Соборности",
+                     "region":"Полтавська область",
+                     "locality":"Полтава"
+                  }
+               }
+            ],
+            "complaintPeriod":{
+               "startDate":"2016-09-20T15:33:11.233141+03:00",
+               "endDate":"2016-09-28T14:20:57.667719+03:00"
+            },
+            "bid_id":"67f29547bf6c4e789f563de51bb94062",
+            "value":{
+               "currency":"UAH",
+               "amount":19343.0,
+               "valueAddedTaxIncluded":true
+            },
+            "date":"2016-09-26T14:20:57.678713+03:00",
+            "id":"38d23a72c0ce420d8c386218944c29af"
+         }
+      ],
+      "date":"2016-10-12T09:04:40.228040+03:00",
+      "minimalStep":{
+         "currency":"UAH",
+         "amount":600.0,
+         "valueAddedTaxIncluded":true
+      },
+      "items":[
+         {
+            "description":"Офісний ПК(Системний блок, монітор, клавіатура, маніпулятор \"мишка\")",
+            "classification":{
+               "scheme":"CPV",
+               "description":"Комп’ютерне обладнання та приладдя",
+               "id":"30200000-1"
+            },
+            "additionalClassifications":[
+               {
+                  "scheme":"NONE",
+                  "id":"000",
+                  "description":"Не визначений"
+               }
+            ],
+            "id":"eca3b5d4a5e641bc979a4d9270817443",
+            "unit":{
+               "code":"H87",
+               "name":"шт"
+            },
+            "quantity":2
+         }
+      ],
+      "bids":[
+         {
+            "status":"active",
+            "documents":[
+               {
+                  "description":"SHA1: 3f9ba408f14b32eac27d278265f645ee508a01f2",
+                  "title":"Комерческое предложение!.pdf",
+                  "url":"https://public.docs.openprocurement.org/get/ec1415d66a834ae1b4429b65b99c51f1?Prefix=68fc16d020c245abaa1c993138b76b25/f13cfe3338cc4cccad409a99247f3198&KeyID=52462340&Signature=10pG4D%2BCQysbCnIzADNyanqW2IbX6pkdSfwFkmd5TK3aGLhsN%2Bdm45I0NhMVHYGexcR8TkAcF4t7ABFQ9FLQAw%3D%3D",
+                  "format":"application/pdf",
+                  "title_en":"Комерческое предложение!.pdf",
+                  "description_en":"SHA1: 3f9ba408f14b32eac27d278265f645ee508a01f2",
+                  "datePublished":"2016-09-20T12:22:03.452720+03:00",
+                  "documentOf":"tender",
+                  "title_ru":"Комерческое предложение!.pdf",
+                  "dateModified":"2016-09-20T12:22:03.452741+03:00",
+                  "description_ru":"SHA1: 3f9ba408f14b32eac27d278265f645ee508a01f2",
+                  "id":"f13cfe3338cc4cccad409a99247f3198"
+               },
+               {
+                  "description":"SHA1: f258ceab06069675755002ea91b711aace2a576d",
+                  "title":"Документы_ФОП_Гусарук_О.В..pdf",
+                  "url":"https://public.docs.openprocurement.org/get/e062686f532548e4b0fa5178fc07afc6?Prefix=68fc16d020c245abaa1c993138b76b25/71390fe2a4214b7b83954cd54d1c7074&KeyID=52462340&Signature=6L6f2D1XUQtRX7FAU1KuIT%2BorjhtnXbaoEVshPWiJZJaLecpYrNZOmuJlAbeSVrb2%2BEJjtjnCTk6DDqDzsHKCg%3D%3D",
+                  "format":"application/pdf",
+                  "title_en":"Документы_ФОП_Гусарук_О.В..pdf",
+                  "description_en":"SHA1: f258ceab06069675755002ea91b711aace2a576d",
+                  "datePublished":"2016-09-20T12:22:06.539927+03:00",
+                  "documentOf":"tender",
+                  "title_ru":"Документы_ФОП_Гусарук_О.В..pdf",
+                  "dateModified":"2016-09-20T12:22:06.539947+03:00",
+                  "description_ru":"SHA1: f258ceab06069675755002ea91b711aace2a576d",
+                  "id":"71390fe2a4214b7b83954cd54d1c7074"
+               }
+            ],
+            "value":{
+               "currency":"UAH",
+               "amount":19343.0,
+               "valueAddedTaxIncluded":true
+            },
+            "tenderers":[
+               {
+                  "contactPoint":{
+                     "name_ru":"  ",
+                     "name_en":"  ",
+                     "telephone":"+380532642042",
+                     "name":"Гусарук Олег Віталійович",
+                     "email":"dostupno_333@ukr.net"
+                  },
+                  "identifier":{
+                     "scheme":"UA-EDR",
+                     "id":"2969913153",
+                     "legalName":"ФОП Гусарук О.В."
+                  },
+                  "name":"ФОП Гусарук О.В.",
+                  "address":{
+                     "postalCode":"36014",
+                     "countryName":"Україна",
+                     "streetAddress":"Соборности",
+                     "region":"Полтавська область",
+                     "locality":"Полтава"
+                  }
+               }
+            ],
+            "date":"2016-09-20T12:21:33.412832+03:00",
+            "id":"67f29547bf6c4e789f563de51bb94062"
+         }
+      ],
+      "value":{
+         "currency":"UAH",
+         "amount":20000.0,
+         "valueAddedTaxIncluded":true
+      },
+      "awardCriteria":"lowestCost",
+      "dateCreated":"2016-09-13T15:55:04.212011+03:00",
+      "id":"68fc16d020c245abaa1c993138b76b25"
+   },
+   "config":{
+      "hasAuction":true,
+      "hasAwardingOrder":true,
+      "hasValueRestriction":true
+   }
+}
