@@ -1,1 +1,0 @@
-2015-02-23T12:00:00.756010+02:00 https://public.api.openprocurement.org/api/2.5/tenders/09076ffc415e4d57ad7046aacc91b6e1
