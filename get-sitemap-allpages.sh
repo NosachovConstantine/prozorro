@@ -1,8 +1,15 @@
 #!/bin/bash
 
+API_URL="https://public.api.openprocurement.org/api/2.5/tenders?offset=1609156954.190796"
+BASE_URL="https://public.api.openprocurement.org/api/2.5/tenders"
 
-API_URL="https://public.api.openprocurement.org/api/2.5/tenders"
-BASE_URL=${API_URL}
+# Check if the 'urls' directory exists. If not, create it.
+if [[ ! -e urls ]]; then
+    mkdir urls
+elif [[ ! -d urls ]]; then
+    echo "urls already exists but is not a directory. Aborting."
+    exit 1
+fi
 
 while [[ -n "${API_URL}" ]]; do
     echo "Fetching ${API_URL}"
@@ -12,9 +19,10 @@ while [[ -n "${API_URL}" ]]; do
         DATE=$(echo "${DATA}" | jq -r '.date')
         ID=$(echo "${DATA}" | jq -r '.id')
         YEAR_MONTH=$(date -d "${DATE}" '+%Y-%m')
-        FILENAME="urls_${YEAR_MONTH}.txt"
+        # Modify the FILENAME path to include the 'urls' directory
+        FILENAME="urls/urls_${YEAR_MONTH}.txt"
         LINE="${DATE} ${BASE_URL}/${ID}"
-        
+
         # check if the line already exists in the file
         if ! grep -Fxq "${LINE}" "${FILENAME}"; then
             # if the line does not exist, append it to the file
@@ -24,4 +32,3 @@ while [[ -n "${API_URL}" ]]; do
 
     API_URL=$(echo "${RESPONSE}" | jq -r '.next_page.uri // empty')
 done
-
