@@ -1,6 +1,6 @@
 #!/bin/bash
 
-API_URL="https://public.api.openprocurement.org/api/2.5/tenders?offset=1609156954.190796"
+API_URL="https://public.api.openprocurement.org/api/2.5/tenders?offset=1635521899.191651"
 BASE_URL="https://public.api.openprocurement.org/api/2.5/tenders"
 
 # Check if the 'urls' directory exists. If not, create it.
